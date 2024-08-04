@@ -1,0 +1,161 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizasDapper\\CrudPolizasDapper.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\BaseDatos\\BaseDatos.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\BaseDatos\\BaseDatos.csproj",
+        "projectName": "BaseDatos",
+        "projectPath": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\BaseDatos\\BaseDatos.csproj",
+        "frameworks": {
+          "net481": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net481": {}
+      }
+    },
+    "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizasDapper\\CrudPolizasDapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizasDapper\\CrudPolizasDapper.csproj",
+        "projectName": "CrudPolizasDapper",
+        "projectPath": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizasDapper\\CrudPolizasDapper.csproj",
+        "packagesPath": "C:\\Users\\JHON\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizasDapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JHON\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\BaseDatos\\BaseDatos.csproj": {
+                "projectPath": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\BaseDatos\\BaseDatos.csproj"
+              },
+              "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Implementaciones\\Implementaciones.csproj": {
+                "projectPath": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Implementaciones\\Implementaciones.csproj"
+              },
+              "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Interfaces\\Interfaces.csproj"
+              },
+              "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Models\\Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Implementaciones\\Implementaciones.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Implementaciones\\Implementaciones.csproj",
+        "projectName": "Implementaciones",
+        "projectPath": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Implementaciones\\Implementaciones.csproj",
+        "frameworks": {
+          "net481": {
+            "projectReferences": {
+              "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\BaseDatos\\BaseDatos.csproj": {
+                "projectPath": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\BaseDatos\\BaseDatos.csproj"
+              },
+              "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Interfaces\\Interfaces.csproj"
+              },
+              "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Models\\Models.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net481": {}
+      }
+    },
+    "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Interfaces\\Interfaces.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Interfaces\\Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Interfaces\\Interfaces.csproj",
+        "frameworks": {
+          "net481": {
+            "projectReferences": {
+              "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Models\\Models.csproj": {
+                "projectPath": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Models\\Models.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net481": {}
+      }
+    },
+    "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Models\\Models.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Models\\Models.csproj",
+        "frameworks": {
+          "net481": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net481": {}
+      }
+    }
+  }
+}

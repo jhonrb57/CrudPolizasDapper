@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CrudPolizaDapper.props" />
+</Project>

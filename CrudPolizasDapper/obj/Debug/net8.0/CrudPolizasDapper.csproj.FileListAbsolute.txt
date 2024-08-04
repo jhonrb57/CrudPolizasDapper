@@ -1,0 +1,8 @@
+C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizasDapper\obj\Debug\net8.0\CrudPolizasDapper.csproj.AssemblyReference.cache
+C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizasDapper\obj\Debug\net8.0\CrudPolizasDapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizasDapper\obj\Debug\net8.0\CrudPolizasDapper.AssemblyInfoInputs.cache
+C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizasDapper\obj\Debug\net8.0\CrudPolizasDapper.AssemblyInfo.cs
+C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizasDapper\obj\Debug\net8.0\CrudPolizasDapper.csproj.CoreCompileInputs.cache
+C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizasDapper\obj\Debug\net8.0\CrudPolizasDapper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizasDapper\obj\Debug\net8.0\CrudPolizasDapper.RazorAssemblyInfo.cache
+C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizasDapper\obj\Debug\net8.0\CrudPolizasDapper.RazorAssemblyInfo.cs

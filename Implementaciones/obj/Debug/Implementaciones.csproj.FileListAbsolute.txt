@@ -1,0 +1,15 @@
+C:\Users\JHON\source\repos\CrudPolizasDapper\Implementaciones\bin\Debug\Implementaciones.dll
+C:\Users\JHON\source\repos\CrudPolizasDapper\Implementaciones\bin\Debug\Implementaciones.pdb
+C:\Users\JHON\source\repos\CrudPolizasDapper\Implementaciones\bin\Debug\BaseDatos.dll
+C:\Users\JHON\source\repos\CrudPolizasDapper\Implementaciones\bin\Debug\Dapper.dll
+C:\Users\JHON\source\repos\CrudPolizasDapper\Implementaciones\bin\Debug\Interfaces.dll
+C:\Users\JHON\source\repos\CrudPolizasDapper\Implementaciones\bin\Debug\Models.dll
+C:\Users\JHON\source\repos\CrudPolizasDapper\Implementaciones\bin\Debug\BaseDatos.pdb
+C:\Users\JHON\source\repos\CrudPolizasDapper\Implementaciones\bin\Debug\Interfaces.pdb
+C:\Users\JHON\source\repos\CrudPolizasDapper\Implementaciones\bin\Debug\Models.pdb
+C:\Users\JHON\source\repos\CrudPolizasDapper\Implementaciones\bin\Debug\Dapper.xml
+C:\Users\JHON\source\repos\CrudPolizasDapper\Implementaciones\obj\Debug\Implementaciones.csproj.AssemblyReference.cache
+C:\Users\JHON\source\repos\CrudPolizasDapper\Implementaciones\obj\Debug\Implementaciones.csproj.CoreCompileInputs.cache
+C:\Users\JHON\source\repos\CrudPolizasDapper\Implementaciones\obj\Debug\Implemen.A9AE8BFC.Up2Date
+C:\Users\JHON\source\repos\CrudPolizasDapper\Implementaciones\obj\Debug\Implementaciones.dll
+C:\Users\JHON\source\repos\CrudPolizasDapper\Implementaciones\obj\Debug\Implementaciones.pdb
