@@ -4,7 +4,7 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
+<h1>Crear</h1>
 
 <h4>Poliza</h4>
 <hr />
@@ -72,20 +72,20 @@
                 <input asp-for="ModeloAutomotor" class="form-control" />
                 <span asp-validation-for="ModeloAutomotor" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="Inspeccion" class="control-label"></label>
-                <input asp-for="Inspeccion" class="form-control" />
-                <span asp-validation-for="Inspeccion" class="text-danger"></span>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Inspeccion" /> @Html.DisplayNameFor(model => model.Inspeccion)
+                </label>
             </div>
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <input type="submit" value="Crear" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index">Regresar</a>
 </div>
 
 @section Scripts {

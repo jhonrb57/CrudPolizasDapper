@@ -239,3 +239,4 @@ C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\bin\Debug\net8.0\r
 C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\CrudPolizaDapper.sourcelink.json

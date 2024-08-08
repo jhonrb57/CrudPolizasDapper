@@ -6,6 +6,7 @@ namespace Models
     public class Poliza
     {
         [Key]
+        [Display(Name = "Número Poliza")]
         public int NumeroPoliza { get; set; }
         [Display(Name = "Cliente")]
         public string NombreCliente { get; set; }
@@ -28,6 +29,7 @@ namespace Models
         public string PlacaAutomotor { get; set; }
         [Display(Name = "Modelo")]
         public string ModeloAutomotor { get; set; }
+        [Display(Name = "Inspección")]
         public bool Inspeccion { get; set; }
     }
 }
