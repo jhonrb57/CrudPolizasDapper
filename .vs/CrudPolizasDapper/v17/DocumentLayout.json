@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|solutionrelative:crudpolizadapper\\controllers\\polizacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|c:\\users\\jhon\\source\\repos\\crudpolizasdapper\\crudpolizadapper\\views\\poliza\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|solutionrelative:crudpolizadapper\\views\\poliza\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B7145087-BAE2-4DC9-8BED-B3D7BEB9E608}|Implementaciones\\Implementaciones.csproj|C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\implementaciones\\polizaimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7145087-BAE2-4DC9-8BED-B3D7BEB9E608}|Implementaciones\\Implementaciones.csproj|solutionrelative:implementaciones\\polizaimplementacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,12 +15,36 @@
       "RelativeMoniker": "D:0:0:{64A699C4-E04D-4C26-87F9-DFE97C2AB837}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\ipoliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDBA7D27-23BA-4816-A71A-E903077EFF16}|Models\\Models.csproj|C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\models\\poliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDBA7D27-23BA-4816-A71A-E903077EFF16}|Models\\Models.csproj|solutionrelative:models\\poliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|c:\\users\\jhon\\source\\repos\\crudpolizasdapper\\crudpolizadapper\\views\\poliza\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|solutionrelative:crudpolizadapper\\views\\poliza\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|c:\\users\\jhon\\source\\repos\\crudpolizasdapper\\crudpolizadapper\\views\\poliza\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|solutionrelative:crudpolizadapper\\views\\poliza\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFA351C-FF5A-4A83-AB40-506581492C94}|BaseDatos\\BaseDatos.csproj|C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\basedatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFA351C-FF5A-4A83-AB40-506581492C94}|BaseDatos\\BaseDatos.csproj|solutionrelative:basedatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|c:\\users\\jhon\\source\\repos\\crudpolizasdapper\\crudpolizadapper\\views\\poliza\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|solutionrelative:crudpolizadapper\\views\\poliza\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|c:\\users\\jhon\\source\\repos\\crudpolizasdapper\\crudpolizadapper\\views\\poliza\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|solutionrelative:crudpolizadapper\\views\\poliza\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|c:\\users\\jhon\\source\\repos\\crudpolizasdapper\\crudpolizadapper\\views\\poliza\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|solutionrelative:crudpolizadapper\\views\\poliza\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|c:\\users\\jhon\\source\\repos\\crudpolizasdapper\\crudpolizadapper\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|solutionrelative:crudpolizadapper\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDBA7D27-23BA-4816-A71A-E903077EFF16}|Models\\Models.csproj|C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\models\\poliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDBA7D27-23BA-4816-A71A-E903077EFF16}|Models\\Models.csproj|solutionrelative:models\\poliza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|c:\\users\\jhon\\source\\repos\\crudpolizasdapper\\crudpolizadapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,22 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|c:\\users\\jhon\\source\\repos\\crudpolizasdapper\\crudpolizadapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|solutionrelative:crudpolizadapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BFA351C-FF5A-4A83-AB40-506581492C94}|BaseDatos\\BaseDatos.csproj|C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\basedatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BFA351C-FF5A-4A83-AB40-506581492C94}|BaseDatos\\BaseDatos.csproj|solutionrelative:basedatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|c:\\users\\jhon\\source\\repos\\crudpolizasdapper\\crudpolizadapper\\views\\poliza\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|solutionrelative:crudpolizadapper\\views\\poliza\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|c:\\users\\jhon\\source\\repos\\crudpolizasdapper\\crudpolizadapper\\views\\poliza\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|solutionrelative:crudpolizadapper\\views\\poliza\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|c:\\users\\jhon\\source\\repos\\crudpolizasdapper\\crudpolizadapper\\views\\poliza\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{328B49A1-8B5B-4ECA-8D71-D3BB24E7D024}|CrudPolizaDapper\\CrudPolizaDapper.csproj|solutionrelative:crudpolizadapper\\views\\poliza\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,53 +110,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PolizaImplementacion.cs",
-              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Implementaciones\\PolizaImplementacion.cs",
-              "RelativeDocumentMoniker": "Implementaciones\\PolizaImplementacion.cs",
-              "ToolTip": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Implementaciones\\PolizaImplementacion.cs",
-              "RelativeToolTip": "Implementaciones\\PolizaImplementacion.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T15:28:50.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Views\\Poliza\\Edit.cshtml",
-              "RelativeDocumentMoniker": "CrudPolizaDapper\\Views\\Poliza\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Views\\Poliza\\Edit.cshtml",
-              "RelativeToolTip": "CrudPolizaDapper\\Views\\Poliza\\Edit.cshtml",
-              "ViewState": "AQIAADMAAAAAAAAAAAAmwFkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T17:07:54.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Views\\Poliza\\Delete.cshtml",
-              "RelativeDocumentMoniker": "CrudPolizaDapper\\Views\\Poliza\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Views\\Poliza\\Delete.cshtml",
-              "RelativeToolTip": "CrudPolizaDapper\\Views\\Poliza\\Delete.cshtml",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAAAGEAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T17:08:28.644Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\BaseDatos\\Conexion.cs",
               "RelativeDocumentMoniker": "BaseDatos\\Conexion.cs",
               "ToolTip": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\BaseDatos\\Conexion.cs",
               "RelativeToolTip": "BaseDatos\\Conexion.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBAAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T15:27:56.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T15:27:56.042Z"
             },
             {
               "$type": "Document",
@@ -162,65 +128,122 @@
               "RelativeDocumentMoniker": "CrudPolizaDapper\\Controllers\\PolizaController.cs",
               "ToolTip": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Controllers\\PolizaController.cs",
               "RelativeToolTip": "CrudPolizaDapper\\Controllers\\PolizaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAIA8wE0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-04T16:42:42.517Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IPoliza.cs",
               "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Interfaces\\IPoliza.cs",
               "RelativeDocumentMoniker": "Interfaces\\IPoliza.cs",
               "ToolTip": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Interfaces\\IPoliza.cs",
               "RelativeToolTip": "Interfaces\\IPoliza.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T15:40:02.113Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T15:40:02.113Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Views\\Poliza\\Index.cshtml",
               "RelativeDocumentMoniker": "CrudPolizaDapper\\Views\\Poliza\\Index.cshtml",
               "ToolTip": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Views\\Poliza\\Index.cshtml",
               "RelativeToolTip": "CrudPolizaDapper\\Views\\Poliza\\Index.cshtml",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAAADYAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T17:15:07.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T17:15:07.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Views\\Poliza\\Create.cshtml",
               "RelativeDocumentMoniker": "CrudPolizaDapper\\Views\\Poliza\\Create.cshtml",
               "ToolTip": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Views\\Poliza\\Create.cshtml",
               "RelativeToolTip": "CrudPolizaDapper\\Views\\Poliza\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAABAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFAAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-04T17:07:16.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Views\\Poliza\\Details.cshtml",
+              "RelativeDocumentMoniker": "CrudPolizaDapper\\Views\\Poliza\\Details.cshtml",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Views\\Poliza\\Details.cshtml",
+              "RelativeToolTip": "CrudPolizaDapper\\Views\\Poliza\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T17:06:41.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PolizaImplementacion.cs",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Implementaciones\\PolizaImplementacion.cs",
+              "RelativeDocumentMoniker": "Implementaciones\\PolizaImplementacion.cs",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Implementaciones\\PolizaImplementacion.cs",
+              "RelativeToolTip": "Implementaciones\\PolizaImplementacion.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAawFkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T15:28:50.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Views\\Poliza\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CrudPolizaDapper\\Views\\Poliza\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Views\\Poliza\\Delete.cshtml",
+              "RelativeToolTip": "CrudPolizaDapper\\Views\\Poliza\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T17:08:28.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Views\\Poliza\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CrudPolizaDapper\\Views\\Poliza\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Views\\Poliza\\Edit.cshtml",
+              "RelativeToolTip": "CrudPolizaDapper\\Views\\Poliza\\Edit.cshtml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T20:12:33.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CrudPolizaDapper\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CrudPolizaDapper\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAWwCgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T20:23:55.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Poliza.cs",
               "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Models\\Poliza.cs",
               "RelativeDocumentMoniker": "Models\\Poliza.cs",
               "ToolTip": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\Models\\Poliza.cs",
               "RelativeToolTip": "Models\\Poliza.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAuwB4AAAATAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAUAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T15:28:14.229Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T15:28:14.229Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Program.cs",
               "RelativeDocumentMoniker": "CrudPolizaDapper\\Program.cs",
@@ -228,25 +251,11 @@
               "RelativeToolTip": "CrudPolizaDapper\\Program.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAQwBIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-04T16:40:55.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T16:40:55.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Views\\Poliza\\Details.cshtml",
-              "RelativeDocumentMoniker": "CrudPolizaDapper\\Views\\Poliza\\Details.cshtml",
-              "ToolTip": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\Views\\Poliza\\Details.cshtml",
-              "RelativeToolTip": "CrudPolizaDapper\\Views\\Poliza\\Details.cshtml",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAUwFgAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-04T17:06:41.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\JHON\\source\\repos\\CrudPolizasDapper\\CrudPolizaDapper\\appsettings.json",
               "RelativeDocumentMoniker": "CrudPolizaDapper\\appsettings.json",
@@ -254,8 +263,7 @@
               "RelativeToolTip": "CrudPolizaDapper\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-04T17:20:12.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-04T17:20:12.682Z"
             }
           ]
         }

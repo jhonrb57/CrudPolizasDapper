@@ -32,11 +32,6 @@ C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\C
 C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\CrudPolizaDapper.RazorAssemblyInfo.cs
 C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\staticwebassets\msbuild.CrudPolizaDapper.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\staticwebassets\msbuild.build.CrudPolizaDapper.props
-C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CrudPolizaDapper.props
-C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CrudPolizaDapper.props
-C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\scopedcss\bundle\CrudPolizaDapper.styles.css
 C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\scopedcss\projectbundle\CrudPolizaDapper.bundle.scp.css
@@ -240,3 +235,12 @@ C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\bin\Debug\net8.0\r
 C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\CrudPolizaDapper.sourcelink.json
+C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\bin\Debug\net8.0\CrudPolizaDapper.staticwebassets.endpoints.json
+C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\JHON\source\repos\CrudPolizasDapper\CrudPolizaDapper\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
