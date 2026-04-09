@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudPolizaDapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b615660637982645aa4b200560da2166854e762")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63616f41149f6d1f88cb90a1b8c1b1215215d0f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudPolizaDapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudPolizaDapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
